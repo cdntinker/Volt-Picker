@@ -1,4 +1,4 @@
-25635135293212787
+25636927380638151
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -66674,6 +66674,13 @@ LED-SMD_6P-L3.5-W3.5_SK6812MINIRGBW-WS-P6-A
 0
 6
 6
+LCSCfootprints
+PGB1010603NRHF
+PGB1010603MR-4
+TVS Diode (Bi-directional)
+0
+2
+2
 LCSCfootprints
 POWERPAK-1212-8_L3.1-W3.1-P0.65-LS3.3-BL
 

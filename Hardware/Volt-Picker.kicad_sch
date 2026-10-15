@@ -6462,7 +6462,7 @@
 				)
 			)
 		)
-		(property "Footprint" "tinker:PGB1010603NRHF"
+		(property "Footprint" "LCSCfootprints:PGB1010603NRHF"
 			(at 66.04 39.37 0)
 			(effects
 				(font
@@ -6882,7 +6882,7 @@
 				)
 			)
 		)
-		(property "Footprint" "tinker:PGB1010603NRHF"
+		(property "Footprint" "LCSCfootprints:PGB1010603NRHF"
 			(at 66.04 69.85 0)
 			(effects
 				(font
@@ -8743,7 +8743,7 @@
 				)
 			)
 		)
-		(property "Footprint" "tinker:TerminalBlock_DG350-3.5-02P-14-00A(H)"
+		(property "Footprint" "TINKERfootprints:TerminalBlock_DG350-3.5-02P-14-00A(H)"
 			(at 250.19 25.4 0)
 			(effects
 				(font
@@ -8819,7 +8819,7 @@
 				)
 			)
 		)
-		(property "Footprint" "tinker:PGB1010603NRHF"
+		(property "Footprint" "LCSCfootprints:PGB1010603NRHF"
 			(at 66.04 49.53 0)
 			(effects
 				(font
@@ -9720,7 +9720,7 @@
 				)
 			)
 		)
-		(property "Footprint" "tinker:PGB1010603NRHF"
+		(property "Footprint" "LCSCfootprints:PGB1010603NRHF"
 			(at 66.04 59.69 0)
 			(effects
 				(font
@@ -10061,7 +10061,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "tinker:USB_C_Receptacle_HRO_TYPE-C-31-M-12"
+		(property "Footprint" "TINKERfootprints:USB_C_Receptacle_HRO_TYPE-C-31-M-12"
 			(at 33.02 50.8 0)
 			(effects
 				(font
