@@ -48,11 +48,50 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.25
+          "min_clearance": 0.2
         }
       },
-      "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        }
+      ],
+      "drc_exclusions": [
+        [
+          "lib_footprint_issues|105700000|103445000|d179f53e-b648-4904-9580-e74b29b092f7|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "lib_footprint_issues|105700000|96555000|c512d913-ccc8-46f6-bbf3-167730eb066c|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "lib_footprint_issues|107200000|103445000|38f915a4-442a-49c8-86a2-9d53d7201d2a|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "lib_footprint_issues|107200000|96555000|5a55a8a4-4468-4902-874c-ff80197fc35c|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "lib_footprint_issues|110865000|100770417|06af82ff-6958-420f-8a9c-970b651319ca|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "lib_footprint_issues|117456816|99893482|b45195c9-9ffb-487c-9ad7-2ceef9a84c1e|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "lib_footprint_issues|84350000|100000000|66b8e9b7-7168-4a4f-8007-abb6109858f7|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "starved_thermal|93780000|105700000|08bfd241-831f-4946-9929-deef8d6f5ff0|806934c8-2d1f-48b0-a0eb-97af0048ed8e|F.Cu",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -180,7 +219,9 @@
           "td_width_to_size_filter_ratio": 0.9
         }
       ],
-      "track_widths": [],
+      "track_widths": [
+        0.0
+      ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
           "corner_radius_percentage": 80,
@@ -207,7 +248,12 @@
           "spacing": 0.6
         }
       },
-      "via_dimensions": [],
+      "via_dimensions": [
+        {
+          "diameter": 0.0,
+          "drill": 0.0
+        }
+      ],
       "zones_allow_external_fillets": false
     },
     "ipc2581": {
@@ -451,7 +497,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "USB-PD Experiments.kicad_pro",
+    "filename": "Volt-Picker.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -480,7 +526,7 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 0,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.3,
+        "track_width": 0.2,
         "via_diameter": 0.8,
         "via_drill": 0.4
       }
