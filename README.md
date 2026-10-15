@@ -18,7 +18,10 @@ Maybe once the chip manufacturers settle on some sort of design...
   * Only time will tell if there's a need for a rev 4...
 
 But for now...
+
 This is a little USB-PD board that'll give you the selected output voltage if plugged into a PD capable source that supports the chosen voltage.
+
+One of the main design criteria is that it does NOT require an MCU to manage it.
 
 # Notes:
 FreeCAD's STEP export seems to have some sort of bug that occasionally causes random boolean cuts in CSG objects to act like boolean unions.  This is very weird and annoying.
