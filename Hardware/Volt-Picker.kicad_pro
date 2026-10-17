@@ -531,7 +531,7 @@
       "plot": "VP-Deee-L fab/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "USB-PD Experiments.step",
+      "step": "Volt-Picker-300.step",
       "svg": "",
       "vrml": ""
     },
