@@ -62,7 +62,7 @@
 			)
 		)
 	)
-	(attr through_hole)
+	(attr smd)
 	(fp_line
 		(start -1.58 -1.58)
 		(end 1.58 -1.58)
@@ -247,7 +247,7 @@
 		(uuid "9e6f967c-cc46-43e9-b1dd-1278deae8052")
 	)
 	(embedded_fonts no)
-	(model "/home/tinker/Documents/LCSC/C24735840.3dshapes/TDFN-14_L3.0-W3.0-P0.40-TL-EP.wrl"
+	(model "${KIPRJMOD}/KiCAD_Customs/3D/TDFN-14_L3.0-W3.0-P0.40-TL-EP.new.step"
 		(offset
 			(xyz 0 0 0)
 		)
@@ -255,7 +255,7 @@
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz 0 0 90)
+			(xyz -0 -0 90)
 		)
 	)
 )

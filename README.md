@@ -1,5 +1,7 @@
 This is a little USB-PD board that'll give you the selected output voltage if plugged into a PD capable source that supports the chosen voltage.
 
+![rev: 3.0.0](/pix/Volt-Picker.png)
+
 # Theory:
 One of the main design criteria is that it does NOT require an MCU to manage it.
 
