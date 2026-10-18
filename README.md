@@ -26,4 +26,4 @@ FreeCAD's STEP export seems to have some sort of bug that occasionally causes ra
 
 My current solution (seems to work rather well...) is to go back into the project and add 0.001mm to a positional offset of the item that's being borked.
 
-![In a box](/pix/Volt-Picker in another box.png)
+![In a box](/pix/Volt-Picker_in_another_box.png)
